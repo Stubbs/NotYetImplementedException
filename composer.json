@@ -1,0 +1,14 @@
+{
+    "name": "stubbs/notyetimplemented",
+    "description": "A not yet implemented exception",
+    "authors": [
+        {
+            "name": "Stuart Grimshaw",
+            "email": "stuart.grimshaw@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {"psr-4": {"": "src/"}}
+}
